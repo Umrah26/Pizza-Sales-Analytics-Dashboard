@@ -1,7 +1,10 @@
-# Pizza Paradiso  
+# Pizza Sales and Operations Analytics dashboard 
 #### This dashboard analyzes pizza sales performance across branches, managers and pizza categories to identify top-performing products and improvement opportunities.
 ## Tools Used: Power BI, Power Query, Data visualization, Excel.
-### Dashboard Screnshot
+### Dashboard Screenshot
+<img width="1512" height="749" alt="pizza sales" src="https://github.com/user-attachments/assets/0e3daf07-f985-49cc-ab84-2c3c4e1eaee7" />
+
+
 ## Dashboard Analysis :
 ### Insights:
 #### 1. Total Revenue Performance-
