@@ -3,12 +3,13 @@
 ## Tools Used: Power BI (Power Query, Data visualization), Excel.
 ### Dashboard Screenshot
 
+<img width="1528" height="732" alt="Pizza Sales Analytics Screenshot" src="https://github.com/user-attachments/assets/9233bc4b-41d4-4501-a391-82904a1894c9" />
 
 
 ## Dashboard Analysis :
 ### Insights:
 #### 1. Total Revenue Performance-
-      - Total revenune generated : 189K.
+      - Total revenue generated : 189K.
       - The business is generating healthy sales across all branches.
 #### 2. Top Selling Pizza Types-
      - Pepperoni Suya sold the highest quantity (1,077 units).
@@ -36,11 +37,11 @@
  ### Recommendations :
  #### 1. Focus marketing on best sellers -
       - Promote Pepperoni Suya and Hot Pepperoni feast through social media and special offers.
-#### 2. Improve Low- performinfg products -
+#### 2. Improve Low- performing products -
       - Offer Discounts and Combo deals for low-selling pizzas.
       - Test customer response before deciding to remove them.
 #### 3. Learn from Top Branches -
-      - Analyze strategies used in Navada and Arizona branches.
+      - Analyze strategies used in Nevada and Arizona branches.
       - Replicate successful promotion in lower -performing branches.
 #### 4. Optimize Menu -
       - Review low demand pizza varieties.
