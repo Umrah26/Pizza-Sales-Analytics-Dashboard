@@ -3,7 +3,6 @@
 ## Tools Used: Power BI (Power Query, Data visualization), Excel.
 ### Dashboard Screenshot
 
-<img width="1512" height="749" alt="pizza sales" src="https://github.com/user-attachments/assets/0e3daf07-f985-49cc-ab84-2c3c4e1eaee7" />
 
 
 ## Dashboard Analysis :
