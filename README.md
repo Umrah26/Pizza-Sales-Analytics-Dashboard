@@ -1,5 +1,5 @@
-# Pizza Sales and Operations Analytics dashboard 
-#### This dashboard analyzes pizza sales performance across branches, managers and pizza categories to identify top-performing products and improvement opportunities.
+# Pizza Sales Analytics Dashboard 
+#### Built an interactive Power BI dashboard to analyze pizza sales performance across branches, managers and pizza categories to identify top-performing products and improvement opportunities.
 ## Tools Used: Power BI (Power Query, Data visualization), Excel.
 ### Dashboard Screenshot
 
